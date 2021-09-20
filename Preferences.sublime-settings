@@ -1,8 +1,9 @@
 {
 	"theme": "Adaptive.sublime-theme",
-	"color_scheme": "Packages/Soulburn Color Scheme/soulburn.tmtheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"ignored_packages":
 	[
+		"Markdown",
 		"Six",
 		"Vintage",
 		"Vintageous",
