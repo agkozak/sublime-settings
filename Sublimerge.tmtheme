@@ -1644,6 +1644,28 @@
 				<string>#616161FF</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>scope</key>
+			<string>col_FFFF00FF</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#FFFF00FF</string>
+				<key>foreground</key>
+				<string>#616161FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>col_FF00FFFF</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#FF00FFFF</string>
+				<key>foreground</key>
+				<string>#E9E9E9FF</string>
+			</dict>
+		</dict>
 	
 		<dict>
 			<key>scope</key>

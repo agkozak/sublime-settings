@@ -3,10 +3,21 @@
 	"color_scheme": "Packages/Soulburn Color Scheme/soulburn.tmtheme",
 	"ignored_packages":
 	[
-		"Markdown",
+		"NeoVintageous",
 		"Six",
 		"Vintage",
 		"Vintageous",
 	],
 	"neovintageous_build_version": 11100,
+	"default_line_ending": "unix",
+	"highlight_line": true,
+	"rulers":
+	[
+		80
+	],
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+    "ensure_newline_at_eof_on_save": true,
+	"dark_color_scheme": "Packages/Color Scheme - Default/Breakers.sublime-color-scheme",
+	"light_color_scheme": "Packages/Color Scheme - Default/Breakers.sublime-color-scheme",
 }
