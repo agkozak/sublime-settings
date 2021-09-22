@@ -1,1 +1,5 @@
 inoremap <C-[> <Esc>
+
+set incsearch
+set ignorecase
+set smartcase
