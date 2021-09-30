@@ -2084,6 +2084,50 @@
 				<string>#272727FF</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>scope</key>
+			<string>col_0000DDFF</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#0000DDFF</string>
+				<key>foreground</key>
+				<string>#999999FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>col_DD0000FF</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#DD0000FF</string>
+				<key>foreground</key>
+				<string>#C2C2C2FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>col_00DD00FF</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#00DD00FF</string>
+				<key>foreground</key>
+				<string>#010101FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>col_808000FF</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#808000FF</string>
+				<key>foreground</key>
+				<string>#F1F1F1FF</string>
+			</dict>
+		</dict>
 	
 		<dict>
 			<key>scope</key>

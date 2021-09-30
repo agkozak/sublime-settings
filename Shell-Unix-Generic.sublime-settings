@@ -1,6 +1,7 @@
 {
 	"extensions":
 	[
+	        ".shrc",
 		"sh",
 		"bash",
 		"zsh",
