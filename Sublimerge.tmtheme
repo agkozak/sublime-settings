@@ -2062,6 +2062,28 @@
 				<string>#B0B0B0FF</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>scope</key>
+			<string>col_008000FF</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#008000FF</string>
+				<key>foreground</key>
+				<string>#CBCBCBFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>col_B4AD6AFF</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#B4AD6AFF</string>
+				<key>foreground</key>
+				<string>#272727FF</string>
+			</dict>
+		</dict>
 	
 		<dict>
 			<key>scope</key>

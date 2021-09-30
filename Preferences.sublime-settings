@@ -3,6 +3,7 @@
 	"color_scheme": "Packages/Soulburn Color Scheme/soulburn.tmtheme",
 	"ignored_packages":
 	[
+		"NeoVintageous",
 		"Six",
 		"Vintage",
 		"Vintageous",
