@@ -1,7 +1,7 @@
 {
 	"nt": {
 		"win32": {
-			"firefox": "C:\\Program Files\\WindowsApps\\Mozilla.Firefox_112.0.1.0_x64__n80bbvh6b1yt2\\VFS\\ProgramFiles\\Firefox Package Root\\firefox.exe -new-tab",
+			"firefox": "firefox.exe -new-tab",
 		}
 	},
 
