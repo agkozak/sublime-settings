@@ -4,11 +4,8 @@
 	"ignored_packages":
 	[
 		"NeoVintageous",
-		"Six",
-		"Sublimerge 3",
 		"VimModelines",
 		"Vintage",
-		"Vintageous",
 	],
 	"neovintageous_build_version": 11100,
 	"default_line_ending": "unix",
@@ -22,4 +19,5 @@
     "ensure_newline_at_eof_on_save": true,
 	"dark_color_scheme": "Packages/Color Scheme - Default/Celeste.sublime-color-scheme",
 	"light_color_scheme": "Packages/User/sftp/auto.sublime-color-scheme",
+	"index_files": true,
 }
