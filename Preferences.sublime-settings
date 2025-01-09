@@ -15,7 +15,7 @@
 		80
 	],
 	"trim_automatic_white_space": true,
-	"trim_trailing_white_space_on_save": true,
+	"trim_trailing_white_space_on_save": false,
     "ensure_newline_at_eof_on_save": true,
 	"dark_color_scheme": "Packages/Color Scheme - Default/Celeste.sublime-color-scheme",
 	"light_color_scheme": "Packages/User/sftp/auto.sublime-color-scheme",
