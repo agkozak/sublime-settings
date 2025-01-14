@@ -20,4 +20,5 @@
 	"dark_color_scheme": "Packages/Color Scheme - Default/Celeste.sublime-color-scheme",
 	"light_color_scheme": "Packages/User/sftp/auto.sublime-color-scheme",
 	"index_files": true,
+	"font_size": 12,
 }
